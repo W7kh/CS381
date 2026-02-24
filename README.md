@@ -120,10 +120,10 @@ Tested and working on:
 
 ## 👨‍💻 Author
 
-**Ahmed Al-Rashid**  
+**Ammar Hasan Alahmadi**  
 Computer Science Student  
-King Saud University  
-Email: ahmed.alrashid@example.com
+Yanbu Industrial University  
+Email: y4m441401179@rcjy.edu.sa
 
 ## 📄 License
 
